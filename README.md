@@ -1,3 +1,3 @@
 # FrontEnd
 full frontend html , css and JS codes...
-https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/basic-html-website
